@@ -1,0 +1,80 @@
+/*
+ * Copyright (c) 2016 CA. All rights reserved.
+ *
+ * This software may be modified and distributed under the terms
+ * of the MIT license.  See the LICENSE file for details.
+ *
+ */
+buildscript {
+    repositories {
+        jcenter()
+        maven { url "https://maven.google.com" }
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.4'
+
+        // NOTE: Do not place your application dependencies here;
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        maven { url "https://maven.google.com" }
+    }
+}
+
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        fidoKey {
+            keyAlias 'FIDO'
+            keyPassword 'fido0725'
+            storeFile file('C:/Android_Projects/CAWealthManagement-v3/SingleSignOnSample/fido1.keystore')
+            storePassword 'fido0725'
+        }
+    }
+    compileSdkVersion 26
+    buildToolsVersion '26.0.2'
+    lintOptions {
+        abortOnError false
+    }
+    defaultConfig {
+        applicationId 'com.ca.mas.sample.singlesignonsample'
+        minSdkVersion 21
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner 'android.support.test.runner.AndroidJUnitRunner'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.fidoKey
+        }
+        debug {
+            debuggable true
+            signingConfig signingConfigs.fidoKey
+        }
+    }
+    productFlavors {
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile "com.android.support:appcompat-v7:26.0.0"
+    compile 'com.google.zxing:android-integration:3.2.0'
+
+    // jCenter
+    compile 'com.ca:masui:1.5.00'
+    compile 'com.ca:mas:1.5.00'
+}
