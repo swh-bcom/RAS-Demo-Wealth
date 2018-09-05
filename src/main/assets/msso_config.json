@@ -11,20 +11,20 @@
   },
   "oauth": {
     "client": {
-      "organization": "CA Technologies",
-      "description": "Example application for Mobile SSO demonstrations",
-      "client_name": "AppA",
+      "organization": "Ca Bank",
+      "description": "Wealth Management",
+      "client_name": "CA Wealth Management",
       "client_type": "confidential",
       "registered_by": "admin",
       "client_custom": {},
       "client_ids": [
 
         {
-          "client_id": "3f27bb4f-b5aa-458b-962b-14d352b7977c",
+          "client_id": "a551d8e9-b9d2-424e-98f8-697148c31ed4",
           "client_secret":"",
-          "scope": "openid msso phone profile address email msso_register",
+          "scope": "openid profile email phone address user_role msso mas_messaging mas_storage mas_identity_retrieve_users",
           "redirect_uri": "https://android.ssosdk.ca.com/android",
-          "environment": "Android",
+          "environment": "ALL",
           "status": "ENABLED",
           "registered_by": "admin",
           "service_ids": "",
