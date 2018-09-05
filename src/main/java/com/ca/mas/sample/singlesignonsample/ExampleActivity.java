@@ -428,19 +428,19 @@ public class ExampleActivity extends AppCompatActivity {
 //                IntentIntegrator intentIntegrator = new IntentIntegrator(this);
 //                intentIntegrator.initiateScan();
 //                break;
-            case R.id.primaryGateway:
-                MAS.start(this, true);
-                setTitle(MASConfiguration.getCurrentConfiguration().getGatewayHostName());
-                break;
+//            case R.id.primaryGateway:
+//               MAS.start(this, true);
+//                setTitle(MASConfiguration.getCurrentConfiguration().getGatewayHostName());
+//               break;
 //            case R.id.secondaryGateway:
 //                MAS.start(this, getConfig("msso_secondary_config.json"));
 //                setTitle(MASConfiguration.getCurrentConfiguration().getGatewayHostName());
 //                break;
 
             default:
+                MAS.start(this, true);
                 return super.onOptionsItemSelected(item);
         }
-        return true;
     }
 
     private void startEnterpriseBrowser() {

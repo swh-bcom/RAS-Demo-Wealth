@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Android_Projects\\GitHub\\CAWealthManagement-v3\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\masui-1.5.00.aar\\884baadda63e2fadeafc2d8cf008bfd5\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,170",
+                        "endColumns": "57,56,54",
+                        "endOffsets": "108,165,220"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\c0ab132be26397c6ab561d8ea136f0cf\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "13",
+                        "endOffsets": "497"
+                    }
+                }
+            ]
+        }
+    ]
+}
