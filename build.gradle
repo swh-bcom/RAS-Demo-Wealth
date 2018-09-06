@@ -32,7 +32,7 @@ android {
         fidoKey {
             keyAlias 'FIDO'
             keyPassword 'fido0725'
-            storeFile file('C:/Android_Projects/CAWealthManagement-v3/SingleSignOnSample/fido1.keystore')
+            storeFile file('fido1.keystore')
             storePassword 'fido0725'
         }
     }
