@@ -408,11 +408,18 @@ color abc_tint_spinner
 color abc_tint_switch_track
 color accent_material_dark
 color accent_material_light
+color alice_blue
+color app_background
+color approve_end
+color approve_highlight
+color approve_start
+color approve_stroke
 color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
 color black
+color black_overlay
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -430,6 +437,9 @@ color colorButtonQrCode
 color colorButtonSalesforce
 color colorPrimary
 color colorPrimaryDark
+color deny_end
+color deny_highlight
+color deny_start
 color design_bottom_navigation_shadow_color
 color design_error
 color design_fab_shadow_end_color
@@ -455,6 +465,7 @@ color grey
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color lightBlue
+color lightGray
 color material_blue_grey_800
 color material_blue_grey_900
 color material_blue_grey_950
@@ -470,6 +481,7 @@ color material_grey_900
 color notification_action_color_filter
 color notification_icon_bg_color
 color notification_material_background_media_default_color
+color pattens_blue
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -484,6 +496,8 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color shakespeare
+color sr_button
 color success
 color successDark
 color switch_thumb_disabled_material_dark

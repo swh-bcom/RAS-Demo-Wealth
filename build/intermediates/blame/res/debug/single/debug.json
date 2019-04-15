@@ -1296,12 +1296,12 @@
         "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\masui-1.5.00.aar\\c71520cfe3ad190f4277f40f58f6f372\\res\\drawable-hdpi-v4\\ic_account_circle_black_24px.png"
     },
     {
-        "merged": "D:\\ProjGit\\Broadcom-RAS-Wealth-app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\49817de87a1cebd8cd1be79c9b614f0d\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\ProjGit\\Broadcom-RAS-Wealth-app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_bg_sr.jpg.flat",
         "source": "D:\\ProjGit\\Broadcom-RAS-Wealth-app\\src\\main\\res\\mipmap-xhdpi\\bg_sr.jpg"
+    },
+    {
+        "merged": "D:\\ProjGit\\Broadcom-RAS-Wealth-app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\49817de87a1cebd8cd1be79c9b614f0d\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "D:\\ProjGit\\Broadcom-RAS-Wealth-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",

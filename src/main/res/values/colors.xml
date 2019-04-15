@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary_material_dark">#2196f3</color>
+    <color name="primary_material_dark">#F32121</color>
+    <color name="colorPrimary">#E42217</color>
+    <color name="colorPrimaryDark">#9F3030</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightGray">#e8e8e8</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="approve_start">#41a317</color>
+    <color name="approve_end">#41A316</color>
+    <color name="approve_highlight">#E42217</color>
+    <color name="approve_stroke">#348017</color>
+    <color name="deny_start">#E42217</color>
+    <color name="deny_end">#E42217</color>
+    <color name="deny_highlight">#F75D59</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+    <color name="app_background">#FF8C8C</color>
+    <color name="pattens_blue">#FBCDCD</color>
+    <color name="shakespeare">#B75B5B</color>
+    <color name="alice_blue">#FDE5E5</color>
+
+    <color name="sr_button">#EA0303</color>
+
 </resources>
