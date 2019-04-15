@@ -17,5 +17,5 @@
         android:paddingRight="20dp"
         android:textSize="12pt"
         android:textColor="@color/white"
-        android:text="test">
+        >
 </TextView>
