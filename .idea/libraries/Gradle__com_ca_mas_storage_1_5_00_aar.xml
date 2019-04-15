@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ca:mas-storage:1.5.00@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mas-storage-1.5.00.aar/f2d48a4ff710c6eda840d8004c034de9/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mas-storage-1.5.00.aar/f2d48a4ff710c6eda840d8004c034de9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mas-storage-1.5.00.aar/f2d48a4ff710c6eda840d8004c034de9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ca/mas-storage/1.5.00/7af16c486054c894812b2b8a73fe2485e50a7121/mas-storage-1.5.00-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

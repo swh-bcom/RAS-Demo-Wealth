@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Android_Projects\\GitHub\\CAWealthManagement-v3\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "D:\\ProjGit\\Broadcom-RAS-Wealth-app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0.aar\\4313e61d25af8a93c4a39f037d83cee6\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0.aar\\03bc771a2241c771ffe24aaab186a857\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\c0ab132be26397c6ab561d8ea136f0cf\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\49817de87a1cebd8cd1be79c9b614f0d\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

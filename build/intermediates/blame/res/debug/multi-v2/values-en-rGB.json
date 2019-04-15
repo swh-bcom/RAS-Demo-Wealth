@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Android_Projects\\GitHub\\CAWealthManagement-v3\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+            "outputFile": "D:\\ProjGit\\Broadcom-RAS-Wealth-app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\c0ab132be26397c6ab561d8ea136f0cf\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\49817de87a1cebd8cd1be79c9b614f0d\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

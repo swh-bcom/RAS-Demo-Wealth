@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Android_Projects\\GitHub\\CAWealthManagement-v3\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "D:\\ProjGit\\Broadcom-RAS-Wealth-app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Android_Projects\\GitHub\\CAWealthManagement-v3\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "D:\\ProjGit\\Broadcom-RAS-Wealth-app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "12",
                         "startColumns": "4",

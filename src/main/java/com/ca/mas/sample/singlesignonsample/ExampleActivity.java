@@ -450,8 +450,8 @@ public class ExampleActivity extends AppCompatActivity {
 
     private URI getProductListDownloadUri() {
         try {
-//            return new URI("/protected/resource/products?operation=listProducts");
-            return new URI("/protected/resource/products?operation=portfolioproducts");
+            return new URI("/protected/resource/products?operation=listProducts");
+//            return new URI("/protected/resource/products?operation=portfolioproducts");
         } catch (URISyntaxException e) {
             throw new RuntimeException(e);
         }

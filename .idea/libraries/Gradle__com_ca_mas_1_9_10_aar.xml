@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ca:mas:1.9.10@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mas-1.9.10.aar/1006ea49c061a0a42974b095f4a6897e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mas-1.9.10.aar/1006ea49c061a0a42974b095f4a6897e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ca/mas/1.9.10/5e64a82029a8836d59fc678b0aacc218087d208f/mas-1.9.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

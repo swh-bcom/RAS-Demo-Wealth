@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Tue Aug 28 18:24:16 CDT 2018
+#Mon Apr 15 12:52:47 CDT 2019
 0.baseType=DIRECTORY
-0.base=C\:\\Android_Projects\\GitHub\\CAWealthManagement-v3\\build\\intermediates\\assets\\debug
+0.base=D\:\\ProjGit\\Broadcom-RAS-Wealth-app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
 0.path=msso_config.json
 0.set=ASSET
 count=1

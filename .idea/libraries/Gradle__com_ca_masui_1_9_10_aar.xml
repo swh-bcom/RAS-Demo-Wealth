@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ca:masui:1.9.10@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/masui-1.9.10.aar/2d5e64cd43e22ff6162fabbaaeec641f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/masui-1.9.10.aar/2d5e64cd43e22ff6162fabbaaeec641f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ca/masui/1.9.10/81a7f4c92748e40b811099bfef7d02c6ae3fe3b6/masui-1.9.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

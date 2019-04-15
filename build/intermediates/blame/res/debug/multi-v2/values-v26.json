@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Android_Projects\\GitHub\\CAWealthManagement-v3\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "D:\\ProjGit\\Broadcom-RAS-Wealth-app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\c0ab132be26397c6ab561d8ea136f0cf\\res\\values-v26\\values-v26.xml",
-                    "from": {
-                        "startLines": "2,3,4,8,12,16",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,130,217,431,657,896",
-                        "endLines": "2,3,7,11,15,16",
-                        "endColumns": "74,86,12,12,12,92",
-                        "endOffsets": "125,212,426,652,891,984"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,8,12,20",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,130,217,431,657,1140",
-                        "endLines": "2,3,7,11,15,20",
-                        "endColumns": "74,86,12,12,12,92",
-                        "endOffsets": "125,212,426,652,891,1228"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0.aar\\4313e61d25af8a93c4a39f037d83cee6\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0.aar\\03bc771a2241c771ffe24aaab186a857\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -39,6 +20,25 @@
                         "endLines": "19,21",
                         "endColumns": "12,96",
                         "endOffsets": "1135,1325"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mardi07\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\49817de87a1cebd8cd1be79c9b614f0d\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,8,12,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,1140",
+                        "endLines": "2,3,7,11,15,20",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,1228"
                     }
                 }
             ]
