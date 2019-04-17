@@ -9,7 +9,7 @@
   -->
 
 <resources>
-    <string name="app_name">Boadcom - Wealth Management</string>
+    <string name="app_name">Broadcom - Wealth Management</string>
     <string name="sharedUserLabel">Example Org</string>
     <string name="entBrowser">Enterprise Browser</string>
     <string name="overflow">overflow</string>
